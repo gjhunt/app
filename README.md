@@ -10,7 +10,7 @@ The *python package* is available on pypi [here](https://pypi.org/project/app-st
 
 ## Vignettes
 
-A basic vignette of how to use APP is available [here](simple_example/simple_example.md) ([.py](simple_example/simple_example.py) | [.ipynb](simple_example/simple_example.ipynb))
+A basic vignette of how to use APP is available [here](simple_example/simple_example.md) ([.py](simple_example/simple_example.py)  [.ipynb](simple_example/simple_example.ipynb))
 
 ## Papers
 
